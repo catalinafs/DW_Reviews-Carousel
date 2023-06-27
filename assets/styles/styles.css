@@ -26,7 +26,7 @@ body {
     height: 100vh;
 }
 
-/* Header */
+/* Header Styles */
 
 nav {
     display: flex;
@@ -44,7 +44,7 @@ nav>ul>li>a:hover {
     color: var(--1);
 }
 
-/* Main */
+/* Main Styles */
 
 main {
     width: 100%;
@@ -76,7 +76,7 @@ main>section>div>a:first-child {
     margin-right: 24px;
 }
 
-/* Reviews Carrousel */
+/* Reviews Carrousel Styles */
 
 #Reviews {
     width: 100%;
